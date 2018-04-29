@@ -1,0 +1,2 @@
+webpackJsonp([0x9f234cb3975c],{355:function(a,e){a.exports={data:{markdownRemark:{html:'<p>Cute overload warning -- panda eating popsicle.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/18csd4EGZuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',frontmatter:{title:"Panda Eating Popsicle"}}},pathContext:{slug:"/pandas-and-popsicles/"}}}});
+//# sourceMappingURL=path---pandas-and-popsicles-929a965e571dd4c0c8ac.js.map
